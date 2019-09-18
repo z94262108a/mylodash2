@@ -1,5 +1,5 @@
 const assert = require('assert')
-const _ = require('../src/lodash')
+const _ = require('../src/dropRight')
 
 /*
 _.dropRight([1, 2, 3]);
